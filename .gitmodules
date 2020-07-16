@@ -1,0 +1,3 @@
+[submodule "common_message_types"]
+	path = common_message_types
+	url = https://github.com/KevinBrendel/common_message_types
